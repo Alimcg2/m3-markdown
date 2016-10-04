@@ -8,4 +8,4 @@ See `complete` branch for an example.
 
 > I don't really have one, here is a google search for other people's favorite quotes.
 
-https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=favorite%20quote
+[Find it here](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=favorite%20quote)
