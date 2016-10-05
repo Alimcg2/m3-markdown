@@ -9,3 +9,11 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+#Pwd
+You should be able to simply use the command without anything arround it:
+`pwd`
+This can be used for:
+* Finding the current directory that you are in
+
+
